@@ -15,6 +15,7 @@ git clone https://github.com/oddStoneGames/xcbem.git
 cd xcbem
 cmake -S . -B ./bin
 cd bin
+make
 ./xcbem
 ```
 
